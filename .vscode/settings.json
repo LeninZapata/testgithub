@@ -1,0 +1,10 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#05ce9c",
+        "titleBar.activeBackground": "#5bfad2",
+        "titleBar.activeForeground": "#018192"
+    },
+    "php.suggest.basic": false,
+    "php.validate.executablePath": "C:\\wamp64\\bin\\php\\php7.2.10\\php.exe",
+    "php.executablePath": "C:\\wamp64\\bin\\php\\php7.2.10\\php.exe",
+}
