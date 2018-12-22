@@ -4,3 +4,6 @@ body{
 p{
     margin: 50px;
 }
+table{
+    border: 0px;
+}
