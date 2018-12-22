@@ -10,3 +10,6 @@ table{
 :-moz-user-disabled{
     color: rebeccapurple;
 }
+strong{
+    font-size: 12rem;
+}
