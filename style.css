@@ -4,3 +4,12 @@ body{
 p{
     margin: 50px;
 }
+table{
+    border: 0px;
+}
+:-moz-user-disabled{
+    color: rebeccapurple;
+}
+strong{
+    font-size: 12rem;
+}
